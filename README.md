@@ -1,6 +1,6 @@
 # React-NewsApp
 
-A Simple front end news app that feeds news from all over the world to the users. This app contains one main component called ```js <Routing /> ``` This Component is essentially the navbar of the application. There are five main components that extend the base component and they are as follows:
+A Simple front end news app that feeds news from all over the world to the users. This app contains one main component called ``` <Routing /> ``` This Component is essentially the navbar of the application. There are five main components that extend the base component and they are as follows:
 
 ```js
 <App />
@@ -23,4 +23,4 @@ These class components have their own reusable subcomponents that are:
 <Portal />
 ```
 
-The ```js< Portal />``` component is used to render the ```js<Footer />``` component outside of its parent component's DOM node while preserving its position in the React hierarchy
+The ```< Portal />``` component is used to render the ```js<Footer />``` component outside of its parent component's DOM node while preserving its position in the React hierarchy
