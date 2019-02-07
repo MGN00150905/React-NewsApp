@@ -23,4 +23,4 @@ These class components have their own reusable subcomponents that are:
 <Portal />
 ```
 
-The ```< Portal />``` component is used to render the ```js<Footer />``` component outside of its parent component's DOM node while preserving its position in the React hierarchy
+The ```< Portal />```  is used to render the ```<Footer />``` component outside of its parent component's DOM node while preserving its position in the React hierarchy
