@@ -1,5 +1,7 @@
 # React-NewsApp
 
+[See the Code in action](https://ca1-news.firebaseapp.com/)
+
 A Simple front end news app that feeds news from all over the world to the users. This app contains one main component called ``` <Routing /> ``` This Component is essentially the navbar of the application. There are five main components that extend the base component and they are as follows:
 
 ```js
